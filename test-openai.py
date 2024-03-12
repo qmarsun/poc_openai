@@ -80,7 +80,7 @@ except Exception as e:
 
 ```
 openssl  s_client -showcerts -verify 5 -connect api.openai.com:443
-S C:\Users\KumarSundaram\workflow> pip list
+S C:\Users\\workflow> pip list
 Package             Version
 ------------------- ---------
 aiohttp             3.9.3
